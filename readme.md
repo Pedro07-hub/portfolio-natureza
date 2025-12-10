@@ -9,7 +9,7 @@ Projeto de **site portfólio responsivo** para fotografia de natureza, vida selv
 > Interface moderna inspirada em dashboards e portfólios profissionais.
 
 <p align="center">
-  <img src="assets/imgportfolio.png" width="800" alt="Preview do projeto NatureLens">
+  <img src="assets/img-portfolio.png" width="800" alt="Preview do projeto NatureLens">
 </p>
 
 ---
