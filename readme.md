@@ -95,7 +95,7 @@ Este projeto foi criado para:
 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 🔗 LinkedIn: [https://www.linkedin.com/in/pedro-denis-947798198](https://www.linkedin.com/in/pedro-denis-947798198)
-📂 GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
+📂 GitHub: [https://github.com/seu-usuario](https://github.com/Pedro07-hub)
 
 ---
 
