@@ -41,15 +41,15 @@ Projeto de **site portfólio responsivo** para fotografia de natureza, vida selv
 ```bash
 PORTFOLIO-NATUREZA/
 │── assets/
-│   ├── aurora-Boreal.jpg
+│   ├── aurora-boreal.jpg
 │   ├── borboleta-natureza.webp
-│   ├── cachoeira-Serra.jpg
 │   ├── icone.png
 │   ├── img-portfolio.png
 │   ├── leticia2.jpg
 │   ├── leticiatorres.jpg
 │   ├── onca-pintada.avif
 │   ├── rio-amazonia.jpg
+│   ├── serra-do-cipo-cachoeira.jpg
 │   └── tucano-de-bico-verde-scaled.jpg
 │
 │── index.html
